@@ -83,6 +83,3 @@ Stay tuned for more updates and help us grow ThalirConnect into a powerful tool 
 
 ---
 
-Development by [Kaushik](https://www.instagram.com/kaushikieee/) and [Hrithik](https://www.instagram.com/__hrithik_b__/)
-and Sujan.
-
